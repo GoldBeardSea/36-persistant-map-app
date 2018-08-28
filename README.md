@@ -1,7 +1,7 @@
 # ![CF](http://i.imgur.com/7v5ASc8.png) Persistent Map App
 
-<img src="mapone.jpg" alt="mapscreen"/>
-<img src="../assets/map2.jpg" alt="mapscreen"/>
+<img src="/mapone.jpg" alt="mapscreen"/>
+<img src="../map2.jpg" alt="mapscreen"/>
 <img src="../assets/mapthree.jpg" alt="mapscreen"/>
 
 
