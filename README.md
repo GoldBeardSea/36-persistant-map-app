@@ -1,8 +1,8 @@
 # ![CF](http://i.imgur.com/7v5ASc8.png) Persistent Map App
 
-<img src="/mapone.jpg" alt="mapscreen"/>
-<img src="../map2.jpg" alt="mapscreen"/>
-<img src="../assets/mapthree.jpg" alt="mapscreen"/>
+<img src="https://github.com/GoldBeardSea/36-persistant-map-app/blob/master/assets/map2.png" alt="mapscreen"/>
+<img src="https://github.com/GoldBeardSea/36-persistant-map-app/blob/master/assets/mapone.png" alt="mapscreen"/>
+<img src="https://github.com/GoldBeardSea/36-persistant-map-app/blob/master/assets/mapthree.png" alt="mapscreen"/>
 
 
 ## Resources
